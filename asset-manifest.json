@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lucas-bustos/static/css/main.4178ce72.css",
+    "main.js": "/lucas-bustos/static/js/main.66fb0413.js",
+    "static/media/bg-peluqueria.jpg": "/lucas-bustos/static/media/bg-peluqueria.1b1aac126d5d76a63318.jpg",
+    "static/media/logo.png": "/lucas-bustos/static/media/logo.2366ccb4ac13eb87a03e.png",
+    "index.html": "/lucas-bustos/index.html",
+    "main.4178ce72.css.map": "/lucas-bustos/static/css/main.4178ce72.css.map",
+    "main.66fb0413.js.map": "/lucas-bustos/static/js/main.66fb0413.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4178ce72.css",
+    "static/js/main.66fb0413.js"
+  ]
+}
